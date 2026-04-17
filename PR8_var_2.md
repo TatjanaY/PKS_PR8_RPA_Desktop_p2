@@ -64,7 +64,7 @@
 
 Для автоматизации используется внешний файл (например: `requests.xlsx`) со следующей структурой:
 
-| ID | Title             | Reader           | Category | Request Type |
+| ID | Title             | Librarian           | Category | Request Type |
 | -- | ----------------- | ---------------- | -------- | ------------ |
 | 1  | War and Peace     | Ivan Petrov      | Fiction  | Borrow       |
 | 2  | Physics Basics    | Anna Smirnova    | Science  | Extend       |
@@ -133,7 +133,7 @@
 
 ## 📋 Пример итогового состояния таблицы
 
-| ID  | Title             | Reader           | Category | Request Type | Status |
+| ID  | Title             | Librarian           | Category | Request Type | Status |
 | --- | ----------------- | ---------------- | -------- | ------------ | ------ |
 | 1   | War and Peace     | Ivan Petrov      | Fiction  | Borrow       | Issued |
 | 2   | Physics Basics    | Anna Smirnova    | Science  | Extend       | New    |
